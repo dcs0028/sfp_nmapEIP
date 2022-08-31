@@ -1,0 +1,3 @@
+Módulo para SpyderFoot programado en Python.
+Parte de la Práctica de la Lección 2 de la asignatura de Seguridad Ofensica en el Máster en Dirección de Ciberseguridad, Hacking Ético y Seguridad Ofensiva.
+Realiza un escaneo de los puertos TCP de una IP dada, utilizando /dev/tcp en bash. Una vez escaneados todos los puertos, devuelve los que estén abiertos.
